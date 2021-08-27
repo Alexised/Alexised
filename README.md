@@ -2,46 +2,16 @@
 
 🕵 me gusta aprender diferentes lenguajes y herramientas, entre ellos:
 
-Frontend
+| Frontend   | Backend | Framework   | Tecnologías Cloud | Bases de Datos | DevOPs              |
+| ---------- | ------- | ----------- | ----------------- | -------------- | ------------------- |
+| JavaScript | Node.js | React       | ComputeEngine     | SQL Server     | GIT                 |
+| CSS        | Python  | Angular     | AppEngine         | MongoDB        | Docker              |
+| HTML       | c#      | Electron    | AWS               | MySQL          | Metodologías Agiles |
+|            | java    | Bootstrap   |                   |                |                     |
+|            |         | Materialize |                   |                |                     |
+|            |         | .NET        |                   |                |                     |
 
-- JavaScript
-- CSS
-- HTML
 
-Backend
-
-- Node.js
-- Python
-- c#
-- java
-
-Framework
-
-- Angular
-- .NET
-- Electron
-- React
-- Bootstrap
-- Materialize
-- React
-
-Tecnologías Cloud
-
-- ComputeEngine
-- AppEngine
-- AWS
-
-Bases de Datos
-
-- SQL Server
-- MongoDB
-- MySQL
-
-DevOPs
-
-- GIT
-- Docker
-- Metodologías Agiles
 
 ❄️ Me gusta la programación en general y trato de aprender siempre cosas nuevas sobre el tema.
 
