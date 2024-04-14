@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alexised/Alexised/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Alexised/Alexised/output/github-contribution-grid-snake.svg" />
 
 ###
 
