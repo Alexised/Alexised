@@ -9,6 +9,10 @@
 
 ###
 
+<p align="left">🕵 me gusta aprender diferentes lenguajes y herramientas, entre ellos:</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -56,6 +60,15 @@
 </div>
 
 ###
+
+<p align="left">❄️ Me gusta la programación en general y trato de aprender siempre cosas nuevas sobre el tema.</p>
+
+###
+
+<p align="left">🎲 Entre mis hobbies se encuentran: tomar fotografías, practicar tiro al arco, escuchar música y lee</p>
+
+###
+
 
 <br clear="both">
 
