@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">🎲 Entre mis hobbies se encuentran: tomar fotografías, practicar tiro al arco, escuchar música y lee</p>
+<p align="left">🎲 Entre mis hobbies se encuentran: tomar fotografías, practicar tiro al arco, escuchar música y leer</p>
 
 ###
 
